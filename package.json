@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "Milad Ezzat",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -12,7 +13,6 @@
     "url": "https://idontknow/todo.git"
   },
   "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
-  "version": "1.0.0",
-  "author": "Milad Ezzat",
+  "version": "1.0.0",  
   "license": "ISC"
 }
